@@ -2,7 +2,7 @@ import React from 'react';
 import 'typeface-roboto';
 import logo from '../logo.svg';
 import '../style/App.css';
-import Todo from "./todo";
+import Todo from "./TodoHook";
 // import MainBar from "./MainBar";
 // import MainDrawer from "./MainDrawer";
 
